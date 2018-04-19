@@ -1,0 +1,24 @@
+﻿.Grid-td {
+    word-wrap: break-word;
+    color: black;
+    font-size: 11pt;
+    text-align: left;
+    border:1px solid black;
+    /*padding-top: 1px;
+    padding: 13px 20px;*/
+}
+.ApplicationGridHeader {
+    color: #FFC325;
+    background: #50575D;
+    word-break: break-word;
+    padding: 9px 15px;
+    text-align: left;
+}
+.grid-header {
+    
+    color: #FFC325;
+    background: #50575D;
+    text-align: left;
+    word-break: break-word;
+    /*padding: 0px 20px;*/
+}
